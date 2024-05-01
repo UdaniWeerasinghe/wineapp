@@ -4,7 +4,7 @@ import org.junit.jupiter.api.BeforeEach;
 
 public class WineServiceTest {
 	
-	@BeforeEach
-	public void setUp() {}
+	// @BeforeEach
+	// public void setUp() {}
 
 }
